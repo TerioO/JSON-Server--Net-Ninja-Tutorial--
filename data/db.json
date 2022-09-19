@@ -1,0 +1,30 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "title": "Blog 2",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis, odit quaerat. Quia, iure dolor praesentium, ut perspiciatis quam suscipit, perferendis nisi sint tempore quaerat officiis in consequatur. Maiores, placeat ea.",
+      "likes": 15
+    },
+    {
+      "id": 3,
+      "title": "Blog 3",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis, odit quaerat. Quia, iure dolor praesentium, ut perspiciatis quam suscipit, perferendis nisi sint tempore quaerat officiis in consequatur. Maiores, placeat ea.",
+      "likes": 5
+    },
+    {
+      "title": "Happy",
+      "body": "Be Happy",
+      "likes": 0,
+      "id": 4
+    }
+  ],
+  "polls": [
+    {
+      "id": 1,
+      "question": "Do you prefer Vue or React?",
+      "answerA": "Vue",
+      "answerB": "React"
+    }
+  ]
+}
